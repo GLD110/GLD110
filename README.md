@@ -2,7 +2,7 @@
 - 👀 I’m interested in Shopify Job.
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Blockchain Industry
-- 📫 How to reach me simond@daikitech.com
+- 📫 How to reach me simon@daikitech.com
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=GLD110&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
 <p align="center" style="margin-bottom: 10px;"><img src="https://github-profile-trophy.vercel.app/?username=GLD110&column=7&theme=onedark" alt="simond110" /></p>
