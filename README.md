@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simon.
-- 👀 I’m interested in Shopify Job.
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Blockchain Industry
+- 👀 I’m interested in all kinds of development Job.
+- 🌱 I’m currently improving Blockchain & AI skills.
+- 💞️ I’m looking to collaborate on Web2 & Web3 Industry.
 - 📫 How to reach me simon@daikitech.com
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=GLD110&label=Profile%20views&color=0e75b6&style=flat" alt="darkrut" /> </p>
